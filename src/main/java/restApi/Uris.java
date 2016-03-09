@@ -33,5 +33,9 @@ public class Uris {
     public static final String CALCULADORA = "/calculadora";
     
     public static final String CALCULADORA2 = "/calculadora2";
+    
+    public static final String SECURITY_ANNOTATION="/security_annotation";
+    
+    public static final String SECURITY_URI="/security_uri";
 
 }
